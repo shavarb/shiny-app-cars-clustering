@@ -1,0 +1,8 @@
+This is documentaion for the cars clustring shiny app
+
+How does it work?
+
+1. Use the dropdown menus to select the X and Y variables you would like to cluster on
+2. Select the number of clusters you would like to see. (max 8)
+
+Note: There is a simple key tha will help explain what each variable means
